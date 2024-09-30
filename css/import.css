@@ -1,0 +1,30 @@
+.policy-section,
+.terms-section {
+  background-color: #ffffff; /* Light background for better readability */
+  padding: 25px; /* Slightly more padding for a better layout */
+  margin-bottom: 25px; /* Consistent spacing with the rest of the site */
+  border-radius: 10px; /* Rounded corners to match other elements */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.05); /* Softer shadow for a subtle effect */
+}
+
+.policy-section h2,
+.terms-section h2 {
+  color: #1a1a1a; /* Darker text for better contrast */
+  font-size: 26px; /* Larger font size for headings */
+  font-weight: bold; /* Bold font weight for emphasis */
+}
+
+.policy-section p,
+.terms-section p {
+  color: #333333; /* Darker grey for text to improve readability */
+  line-height: 1.8; /* Increased line height for better text flow */
+  font-size: 16px; /* Standard font size for consistency */
+}
+
+.policy-section h3,
+.terms-section h3 {
+  color: #2a2a2a; /* Slightly lighter than h2 for hierarchical contrast */
+  font-size: 20px; /* Larger font size for subheadings */
+  margin-top: 20px; /* More top margin to separate sections clearly */
+  font-weight: normal; /* Normal weight to differentiate from h2 */
+}
